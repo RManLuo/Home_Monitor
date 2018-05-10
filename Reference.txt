@@ -1,0 +1,3 @@
+https://www.jianshu.com/p/75fc00764d21
+https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py
+https://www.cnblogs.com/arkenstone/p/7159615.html
