@@ -1,4 +1,4 @@
 opencv_python==3.4.0.12
 face_recognition==1.2.2
-Flask==0.12.2
+Flask==1.0
 Pillow==5.1.0
